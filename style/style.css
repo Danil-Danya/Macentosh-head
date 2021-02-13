@@ -614,6 +614,12 @@ li{
     .main__conatiner-contacts{
         height: 1000px;
     }
+    .title{
+        height: 520px;
+    }
+    .progress-img{
+        margin-bottom: 10px;
+    }
 }
 @media(max-width:580px){
     .title-project{
@@ -718,5 +724,8 @@ li{
     .project-indicators li{
         width: 5px;
         height: 5px;
+    }
+    .progress-content{
+        height: 400px;
     }
 }
